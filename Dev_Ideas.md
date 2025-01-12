@@ -85,3 +85,22 @@ This is a planet that was once inhabited by some civilization and is now all in 
 ### Map 5 - Church
 
 This is the final map of the game and where the final boss is. You arrive outside a large ornate creamy white marble building and the enterance is the only place you can go. Once you enter it is a beautiful ornate chapel/church with beautiful pristine flooring with ornate patterns. Lots of Greek/Athens style pillars. Slight religious symbolism. MAYBE YOU ARE KILLING GOD????????
+
+## Game systems
+
+### Waves
+
+Waves will increase in number after you kill all monsters. Then the next wave will spawn more monsters adding to the difficulty. Wave progression will stay between planets and it will allow for the end game to be harder and the early game easier. It will also stop players from over-farming items and force them to move on or the later planets will be too hard. Wave progression will also spawn harder enemies.
+
+### Augments
+
+Augments will be offered at intervals of waves (maybe every 5 waves?) and will allow for more in-depth adjustment of playstyle. There will be 3 augments offered at these intervals and will be randomly chosen from a large pool of potential augments. This is where character specific augments will come from although they will be rarer.
+
+### Items
+
+UNSURE
+
+### Boss fights
+
+Each map will have a dedicated boss with its own design. Each boss should have 3 phases and how many phases you have to fight is determined by what wave you are on. An entrance will be generated for the boss rooms in a random location on the map each time a new map is entered. This allows players to go right in to the boss room if they feel like they can take the challenge and allows for people to "speedrun" the game if they are good enough but shouldnt be viable for newer players.
+
